@@ -1,2 +1,5 @@
 Practising Git commits from Windows.
 I have successfully pushed my first commit to GitHub.
+I am learning how to edit Git commits.
+I am learning how to edit Git commits.
+I am practising how to amend a commit.
