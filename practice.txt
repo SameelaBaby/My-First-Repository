@@ -1,1 +1,2 @@
 Practising Git commits from Windows.
+I have successfully pushed my first commit to GitHub.
