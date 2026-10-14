@@ -24,3 +24,8 @@ else:
 
 
 # This program practises Python functions and Git version control.
+
+
+
+# Temporary change for practising commit deletion.
+
