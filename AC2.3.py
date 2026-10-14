@@ -20,3 +20,7 @@ if check_voting_age(age):
     print("You are eligible to vote.")
 else:
     print("You are not yet eligible to vote.")
+
+
+
+# This program practises Python functions and Git version control.
