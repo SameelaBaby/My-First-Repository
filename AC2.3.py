@@ -14,12 +14,24 @@ def check_voting_age(age):
 
 welcome_user()
 
-age = int(input("Enter your age: "))
+while True:
+    try:
+        age = int(input("Enter your age: "))
+
+        if age < 0:
+            print("Please enter a valid age.")
+            continue
+
+        break
+
+    except ValueError:
+        print("Please enter your age as a whole number.")
 
 if check_voting_age(age):
     print("You are eligible to vote.")
 else:
     print("You are not yet eligible to vote.")
+
 
 
 
